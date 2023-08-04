@@ -3,6 +3,7 @@ h1 {
     background-color: #ffc6d5;
     padding: 80px;
     text-align: center;
+    background-image: url(img/h1-background.jpg);
 }
 .aboutme-paragraph {
   color: rgb(0, 0, 0);
