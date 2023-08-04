@@ -8,6 +8,7 @@ h1 {
     padding: 80px;
     text-align: center;
     background-image: url(img/h1-background.jpg);
+  text-transform: uppercase;
 }
 #flex-box {
     display: flex;
